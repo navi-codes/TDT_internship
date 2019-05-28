@@ -1,0 +1,40 @@
+.product_image {
+  padding: 15px;
+  width: 15%;
+}
+.logo
+{
+
+	padding:15px;
+	width:5%;
+
+}
+
+
+.cart{
+  width: 200px;
+   height: 200px;
+   background: orange; 
+   -moz-border-radius: 70px; 
+   -webkit-border-radius: 100px; 
+   border-radius: 70px;
+}
+
+
+div{
+  position: absolute;
+  top:80px;
+	position: relative;
+}
+.top {
+  position:fixed;
+  font-size-adjust: all;
+  float: right;
+  top: 0;
+  left: 0;
+  right: 0;
+  height:20%;
+  text-align: right;
+  background-color: green;
+   z-index: 1;
+}
