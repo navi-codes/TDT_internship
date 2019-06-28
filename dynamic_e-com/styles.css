@@ -1,0 +1,50 @@
+.product_image {
+  padding: 15px;
+  max-width: 50%;
+}
+.logo
+{
+
+	padding:15px;
+	width:5%;
+
+}
+
+
+.cart{
+  width: 200px;
+  height: 200px;
+  background: orange; 
+
+  border-radius: 70px;
+}
+
+div{
+
+  top:20px;
+}
+
+
+
+.navbar-inverse{
+  background-color: green;
+  border-color: yellow;
+  position: fixed;
+  z-index: 1;
+  padding :10px 10px 10px 10px;
+  width: 100%
+}
+
+.top {
+  position:relative;
+  font-size-adjust: all;
+  float: right;
+  top: 0;
+  left: 0;
+  right: 0;
+  height:15%;
+  text-align: right;
+  background-color: green;
+  z-index: 1;
+  text-align: left;
+}
